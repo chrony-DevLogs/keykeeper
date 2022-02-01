@@ -2,9 +2,9 @@
 #include <string.h>
 
 void signin(char[],char[],char[]);
+void reset(char[],char[],char[],char[],char[],char[]);
 void printPass();
 void remKeys();
-void reset(char[],char[],char[],char[],char[],char[]);
 
 int main( int argc,char *argv[]){
 
